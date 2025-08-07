@@ -1,0 +1,5 @@
+fp = float(input("enter the Fuel Price"))
+mileage = float(input("Enter the Mileage"))
+distance = float(input("Enter the Distance"))
+tc = (distance/Mileage)*fp
+print(your total Fuel price estimation is 'tc,'rs')
